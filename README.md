@@ -35,5 +35,5 @@ $ npm run bundle
 Unfortunately this experiment does not work on iOS or desktop Safari (at least
 until Apple allows camera access from the web).
 
-Forked from the original project. Attempting to integrate with Android.
+Forked from the original project by dmotz. Attempting to integrate with Android.
 - con-ji 2016
