@@ -11,8 +11,7 @@
 
 Thing Translator is a web app that lets you point your phone (or laptop) at
 stuff to hear to say it in a different language. It was developed as part of
-Google's [AI Experiments](https://aiexperiments.withgoogle.com/) project. You
-can try the app [here](https://oxism.com/thing-translator/).
+Google's [AI Experiments](https://aiexperiments.withgoogle.com/) project.
 
 Behind the scenes Thing Translator is using Google's
 [Cloud Vision](https://cloud.google.com/vision/) and
@@ -31,10 +30,10 @@ To optimize the output for production run:
 $ npm run bundle
 ```
 
-### Caveats
+### Notes
 
 Unfortunately this experiment does not work on iOS or desktop Safari (at least
 until Apple allows camera access from the web).
 
-If you'd like to create a fork or a similar project, you'll need to setup some
-API keys on [Google Cloud Platform](https://cloud.google.com/).
+Forked from the original project. Attempting to integrate with Android.
+- con-ji 2016
